@@ -12,3 +12,8 @@ MXL/Audio
 **.pdf
 **.zip
 **.url
+Ruination/
+Test/
+**/scoped_dir*
+*.exe
+MXL/Casting/LeagueBroadcast
